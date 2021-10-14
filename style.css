@@ -1,0 +1,17 @@
+body {
+text-align: center;
+}
+
+marquee {
+background-color: dodgerblue;
+color: white;
+}
+
+#contact_box {
+border: 2px;
+border-style: solid;
+border-color: gainsboro;
+width: 600px;
+height: 580px;
+}
+

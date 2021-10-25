@@ -49,7 +49,7 @@ margin-right: 235px;
 margin-right: 235px;
 }
 
-ul {
+#FAQS ul {
 list-style-position: inside;
 text-align: justify;
 }
@@ -83,7 +83,7 @@ color: black;
 text-decoration: underline;
 }
 
-li {
+#FAQS li {
 font-family: cursive;
 color: black;
 }
@@ -99,6 +99,44 @@ padding-right: 20px;
 padding-top: 10px;
 }
 
+#Other_Branches ul {
+list-style: none;
+}
+
+.list-group-item {
+height: 300px;
+width: 1000px;
+}
+
+.list-group-item h4 {
+text-align: justify;
+}
+
+.list-group-item img {
+float: left;
+margin-top: 20px;
+}
+
+table {
+font-family: arial, sans-serif;
+border-collapse: collapse;
+width: 65%;
+margin-top: 40px;
+}
+
+td {
+border: 1px solid #dddddd;
+text-align: left;
+padding: 15px;
+}
+
+tr:nth-child(even){
+background-color: #dddddd;
+}
+
+tr:nth-child(odd){
+background-color: white;
+}
 
 
 

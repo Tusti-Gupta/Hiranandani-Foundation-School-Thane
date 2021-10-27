@@ -38,15 +38,35 @@ font-size: 20px;
 }
 
 #q1 {
-margin-right: 210px;
+margin-right: 220px;
 }
 
 #q2 {
-margin-right: 235px;
+margin-right: 245px;
 }
 
 #q3 {
-margin-right: 235px;
+margin-right: 245px;
+}
+
+#q4 {
+margin-right: 5px;
+}
+
+#q5 {
+margin-right: 5px;
+}
+
+#q8 {
+margin-right: 15px;
+}
+
+#q9 {
+margin-right: 15px;
+}
+
+#q10 {
+margin-right: 50px;
 }
 
 #FAQS ul {
@@ -66,6 +86,94 @@ padding-top: 10px;
 }
 
 #ans3 {
+width: 600px;
+border: 1px;
+border-style: solid;
+border-color: dodgerblue;
+border-radius: 8px;
+padding-bottom: 10px;
+padding-right: 20px;
+padding-top: 10px;
+}
+
+#ans4 {
+width: 600px;
+border: 1px;
+border-style: solid;
+border-color: dodgerblue;
+border-radius: 8px;
+padding-bottom: 10px;
+padding-right: 20px;
+padding-top: 10px;
+}
+
+#ans5 {
+width: 600px;
+border: 1px;
+border-style: solid;
+border-color: dodgerblue;
+border-radius: 8px;
+padding-bottom: 10px;
+padding-right: 20px;
+padding-top: 10px;
+}
+
+#ans6 {
+width: 600px;
+border: 1px;
+border-style: solid;
+border-color: dodgerblue;
+border-radius: 8px;
+padding-bottom: 10px;
+padding-right: 20px;
+padding-top: 10px;
+}
+
+#ans7 {
+width: 600px;
+border: 1px;
+border-style: solid;
+border-color: dodgerblue;
+border-radius: 8px;
+padding-bottom: 10px;
+padding-right: 20px;
+padding-top: 10px;
+}
+
+#ans8 {
+width: 600px;
+border: 1px;
+border-style: solid;
+border-color: dodgerblue;
+border-radius: 8px;
+padding-bottom: 10px;
+padding-right: 20px;
+padding-top: 10px;
+}
+
+#ans9 {
+width: 600px;
+border: 1px;
+border-style: solid;
+border-color: dodgerblue;
+border-radius: 8px;
+padding-bottom: 10px;
+padding-right: 20px;
+padding-top: 10px;
+}
+
+#ans10 {
+width: 600px;
+border: 1px;
+border-style: solid;
+border-color: dodgerblue;
+border-radius: 8px;
+padding-bottom: 10px;
+padding-right: 20px;
+padding-top: 10px;
+}
+
+#ans11 {
 width: 600px;
 border: 1px;
 border-style: solid;
@@ -138,6 +246,42 @@ tr:nth-child(odd){
 background-color: white;
 }
 
+#Our_Toppers p1{
+font-size: 25px;
+color: dimgray; 
+}
 
+#Our_Toppers p2, i {
+font-size: 18px;
+color: dimgray;
+background-color: lightgoldenrodyellow;
+font-family: cursive;
+font-weight: bold;
+font-style: italic;
+}
 
+#quote-container {
+text-align: justify;
+margin-left: 300px;
+}
 
+#topper-list-1 {
+margin-top: 15px;
+}
+
+#topper-list-2 {
+margin-top: 15px;
+}
+
+#topper-list-3 {
+margin-top: 15px;
+}
+
+#topper-list-4 {
+margin-top: 15px;
+}
+
+.img-container img {
+float: left;
+margin: 50px;
+}
